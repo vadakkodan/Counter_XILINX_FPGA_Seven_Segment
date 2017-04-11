@@ -1,0 +1,15 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk_fpga" LOC = P55;
+NET "an[0]" LOC = P76;
+NET "an[1]" LOC = P77;
+NET "seg[6]" LOC = P82;
+NET "seg[5]" LOC = P83;
+NET "seg[4]" LOC = P84;
+NET "seg[3]" LOC = P85;
+NET "seg[2]" LOC = P86;
+NET "seg[1]" LOC = P87;
+NET "seg[0]" LOC = P89;
+NET "led" LOC = P90;
+NET "reset" LOC = P108;
